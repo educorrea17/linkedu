@@ -1,0 +1,25 @@
+[general]
+browser = "chrome"
+headless = false
+timeout = 30
+retry_attempts = 3
+data_storage = "csv"
+log_level = "DEBUG"
+
+[linkedin]
+username = ""
+password = ""
+use_cookies = true
+
+[connection]
+max_connections_per_day = 0
+max_tabs = 3
+connection_message_template = ""
+search_url = ""
+
+[job_application]
+search_url = ""
+keywords = ""
+location = ""
+max_applications_per_day = 0
+easy_apply_only = true
