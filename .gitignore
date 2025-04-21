@@ -1,15 +1,6 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
-/.idea
-/.cursor
 .DS_Store
-/__pychache__
-/.venv
-/data/cookies
-/logs
+logs/
+.idea/
+.cursor/
+__pycache__/
+data/cookies/
